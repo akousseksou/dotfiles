@@ -2,3 +2,4 @@
 
 alias la='ls -lah'
 alias cd..='cd ..'
+alias lh='ls -h'
